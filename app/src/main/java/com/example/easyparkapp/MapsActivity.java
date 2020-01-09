@@ -105,9 +105,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
     }
 
-    private void initArea1(){
-        DatabaseReference reference = FirebaseDatabase.getInstance().getReference("ParkArea").child("kegalle").child()
-    }
+   
 
     private void initArea() {
 
